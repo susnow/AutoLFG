@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: AutoLFG
+## Title-zhCN: AutoLFG
+## Title-zhTW: AutoLFG
+## Notes: Auto ignore the old dungeon when bosses remaind is not max
+## Notes-zhCN: 自动忽略非新进度的副本 并且为随机副本加上离开队列的倒计时
+## Author: 素雪@风暴之眼
+config.lua
+core.lua
